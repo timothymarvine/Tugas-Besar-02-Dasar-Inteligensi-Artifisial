@@ -35,4 +35,4 @@ TUGAS-BESAR-02
 | ----- | --- | ------------------------------------------------------------------------------------------------------------ |
 |18223001      |Darren Mansyl |Membuat Algoritma Decision Tree Learning & Algoritma Logistic Regression |
 |18223021      |Timothy Marvine|Membuat Algoritma K-Nearest Neighbors & Algoritma Logistic Regression |
-|18223049      |Amudi Purba|Cleaning and Pre-processing & Compile Processing Pipeline |
+|18223049      |Amudi Purba|Split Training, Validation, Testing Set, Cleaning & Pre-processing, and Compile Processing Pipeline |
